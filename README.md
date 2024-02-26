@@ -24,3 +24,6 @@ Mi drawer, imagenes:
 
 Links utilizados:
 -https://appmaking.com/flutter-drawer-example/
+
+![image](https://github.com/pvacarrasco/practica9_drawer6J/assets/143549258/3970dcfc-0308-4760-8057-577482b0276e)
+![image](https://github.com/pvacarrasco/practica9_drawer6J/assets/143549258/7695b534-0ed5-43cd-98ed-66c24d9e5ae0)
